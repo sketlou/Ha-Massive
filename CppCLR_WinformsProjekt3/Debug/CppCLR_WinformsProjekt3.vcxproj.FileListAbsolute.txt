@@ -1,0 +1,10 @@
+C:\Users\edgei\source\repos\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.vcxprojAssemblyReference.cache
+C:\Users\edgei\source\repos\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.exe
+C:\Users\edgei\source\repos\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.pdb
+C:\Users\edgei\source\repos\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.Form1.resources
+C:\Users\edgei\source\repos\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.vcxproj.GenerateResource.cache
+C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.vcxprojAssemblyReference.cache
+C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.Form1.resources
+C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.vcxproj.GenerateResource.cache
+C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.exe
+C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.pdb

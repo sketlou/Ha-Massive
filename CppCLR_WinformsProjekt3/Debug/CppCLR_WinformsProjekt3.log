@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Form1.h(222,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Form1.cpp
+  MyForm.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CppCLR_WinformsProjekt3.vcxproj -> C:\Users\edgei\Desktop\CppCLR_WinformsProjekt3\Debug\CppCLR_WinformsProjekt3.exe
